@@ -33,3 +33,8 @@ Everything listed below is based on personal experience and articles that I read
 - Don't forget to create this file
 - Don't forget to add the `.git` folder
 - Don't forget to add any sensitive files such as `.env.production`
+
+## Javascript
+
+- [Javascript project](https://github.com/elsewhencode/project-guidelines)
+- [Node.js](https://github.com/i0natan/nodebestpractices)
